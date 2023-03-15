@@ -37,6 +37,7 @@ En la pàgina web hi hauran tres botons essencials, afegir espectacle, editar es
 
 
 MODEL ENTITAT-RELACIÓ
-![Documento sin título-1](https://user-images.githubusercontent.com/72123039/225375798-a89f9146-d0d0-4626-995e-85eb981e0e75.png)
+![model E-R-Gestió entrades](https://user-images.githubusercontent.com/72123039/225376998-187e5590-180c-4bc2-a6aa-591ff3b5e8ed.png)
+
 
 
